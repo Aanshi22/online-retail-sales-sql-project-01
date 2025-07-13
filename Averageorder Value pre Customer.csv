@@ -1,0 +1,26 @@
+customer_id,name,total_orders,avg_order_value
+1,"Amit Sharma",2,1098.50
+2,"Riya Patel",2,1148.50
+3,"John Doe",2,749.00
+4,"Sara Khan",2,1598.50
+5,"David Lee",2,1374.00
+6,"Anjali Mehta",2,699.00
+7,"Carlos Garcia",2,674.00
+8,"Liu Wei",2,1374.00
+9,"Emma Watson",2,624.00
+10,"Ali Rahman",2,1149.00
+11,"Tom Hanks",2,899.00
+12,"Meena Kumari",2,898.50
+13,"Raj Malhotra",2,724.00
+14,"Sophia Loren",2,1074.00
+15,"James Bond",2,1398.50
+16,"Olivia Jones",1,1249.00
+17,"Noah Smith",1,549.00
+18,"Arjun Kapoor",1,1199.00
+19,"Priya Roy",1,2298.00
+20,"Akash Nair",1,498.00
+21,"Harpreet Singh",1,299.00
+22,"Isabella Cruz",1,499.00
+23,"William Brown",1,1099.00
+24,"Nina Verma",1,399.00
+25,"Zara Ali",1,699.00
